@@ -1,0 +1,22 @@
+{
+  "name": "core-genesis-acx",
+  "version": "0.0.1",
+  "description": "access genesis contract | access network ~ a purely democratic, user centric, cryptocurrency network for developing economies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACXNetwork/core-genesis-acx.git"
+  },
+  "author": "Gaurav Rana (CF1E 7DC6 B92D E45F BD8A 777B 0CA3 D942 0382 7CB3)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ACXNetwork/core-genesis-acx/issues"
+  },
+  "homepage": "https://github.com/ACXNetwork/core-genesis-acx#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.3.0"
+  }
+}
