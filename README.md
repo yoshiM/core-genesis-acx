@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="445" height="445" src="manuscript/resources/images/logo.png">
+  <img  src="manuscript/resources/images/logo_git_acx.png">
 </p>
 
 # core | access genesis contract | access network ( acx )
